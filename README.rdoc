@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the repository of my portfolio's website www.badrtazi.com (work in progress)
 
-Things you may want to cover:
+My portfolio will be a single website that contains a home page and a blog:
 
-* Ruby version
+* The home page will present the different projects I have worked on. Each project will have a list of features. This is going to be simply written in html with no backend integration.
 
-* System dependencies
+* I will create a blog with a simple engine (thinking about casein)
 
-* Configuration
+* I will test everything with rspec and capybara
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Please feel free to contact me: badr@badrtazi.com
